@@ -1,0 +1,7 @@
+{
+  "name": "calc-selec",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
